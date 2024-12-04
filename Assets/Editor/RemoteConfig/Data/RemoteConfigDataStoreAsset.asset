@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"4d17734f-9574-4cf4-b18d-dbee543e98ae\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"bonusTime\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"06.06.2024\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"6037dcc7-9a35-4233-871c-ddfa842dc85a\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"gameConfig\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"com.chi.h1tnr8sh\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"ffd703b0-ad20-4fe4-8e69-87d82140e5d2\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"isChange\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9eb4a0bc-43b2-409a-b896-08a9e30eae0b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isGameOver\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"17900628-16bc-4210-a50c-fe2493ecca0d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"localization\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://podlaorlf.space/BFcVLFHF\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"4d17734f-9574-4cf4-b18d-dbee543e98ae\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"bonusTime\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"06.06.2024\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"6037dcc7-9a35-4233-871c-ddfa842dc85a\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"gameConfig\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"com.chi.h1tnr8sh\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"ffd703b0-ad20-4fe4-8e69-87d82140e5d2\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"isChange\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9eb4a0bc-43b2-409a-b896-08a9e30eae0b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isGameOver\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"17900628-16bc-4210-a50c-fe2493ecca0d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"localization\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://podlaorlf.space/BFcVLFHF\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"93ab48b0-6898-40d8-bdce-f422d0b9b9f5\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"b25b566c-0db7-40b6-a519-a8e18bd634f4\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-10-03T12:00:58Z\",\r\n    \"updatedAt\":
+    \"2024-10-03T12:00:58Z\"\r\n  }\r\n]"
